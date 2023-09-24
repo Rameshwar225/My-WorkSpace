@@ -1,0 +1,32 @@
+package xyz;
+
+class car 
+{
+	protected String sound="'Tuurrrrr furrrrrr";
+	void sound()
+	{
+		System.out.println(sound);
+	}
+	
+}
+class bike extends car
+{
+	int wheels;
+	String color;
+	bike(int wheels, String color)
+	{
+		System.out.println(sound+" "+ wheels+ " "+ color);
+	}
+}
+
+class play extends champ
+public class inheritance {
+
+	public static void main(String[] args) {
+		bike b1 = new bike(4,"Red");
+		
+		
+
+	}
+
+}

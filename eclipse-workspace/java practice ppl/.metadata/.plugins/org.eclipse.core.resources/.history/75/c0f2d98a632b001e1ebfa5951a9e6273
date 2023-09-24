@@ -1,0 +1,22 @@
+package xyz;
+
+class student
+{
+	private String name;
+	private String clg; 
+	
+	student(String name, String clg)
+	{
+		this.name;
+		this.clg;
+	}
+}
+
+public class ObjectCreation {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
